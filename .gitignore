@@ -5,7 +5,7 @@ using_api/youtubeAPI_personal.ipynb
 # 용량 큰 데이터 폴더
 data/
 spotify/
-
+using_api/key_folder
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos,python,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,macos,python,visualstudiocode
